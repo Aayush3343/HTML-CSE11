@@ -1,0 +1,13 @@
+.num{
+
+     width: 100%;
+    height: 100px;
+    background-color: rgb(241, 148, 7);
+}
+
+@media(min-width:768px){
+    .num{
+        font-size: 100px;
+        background-color: aqua;
+    }
+}
